@@ -1,4 +1,4 @@
-// CapCutResponse.js - chỉ dùng học tập
+// CapCutResponse.js -  
 
 var body = $response.body;
 var obj = JSON.parse(body);
